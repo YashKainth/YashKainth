@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to Yash Kainth's GitHub Profile 👋
+## About Me
+I'm a passionate Web Developer, specializing in Front-End. I'm currently learning Typescript. My future goal is to switch to BackEnd as well.
 
-<!--
-**YashKainth/YashKainth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🚀
+- HTML5
+- CSS3
+- JavaScript
+- C++
+- C
+- Python
+- Netlify
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Figma
+  
+## Connect with Me ✨
+- LinkedIn: https://www.linkedin.com/in/yash-kainth-aa249b2a3/
+  
+## Feel free to reach out for collaborations or just to say hi! 😊
