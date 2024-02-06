@@ -1,6 +1,6 @@
 # Welcome to Yash Kainth's GitHub Profile 👋
 ## About Me
-I'm a passionate Web Developer, specializing in Front-End. I'm currently learning Typescript. My future goal is to switch to BackEnd as well.
+I'm a passionate **Web Developer**, specializing in **Front-End.** I'm currently learning *Typescript*. My future goal is to switch to **Backend** as well.
 
 ## Skills 🚀
 - HTML5
@@ -16,6 +16,6 @@ I'm a passionate Web Developer, specializing in Front-End. I'm currently learnin
 - Figma
   
 ## Connect with Me ✨
-- LinkedIn: https://www.linkedin.com/in/yash-kainth-aa249b2a3/
+- LinkedIn: *https://www.linkedin.com/in/yash-kainth-aa249b2a3/*
   
 ## Feel free to reach out for collaborations or just to say hi! 😊
