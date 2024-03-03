@@ -69,10 +69,6 @@
 
 ###
 
-<img src="snake.yml" alt="Snake animation" />
-
-###
-
 <h6 align="center">Feel free to reach out for collaborations or just to say hi! 😊</h6>
 
 ###
